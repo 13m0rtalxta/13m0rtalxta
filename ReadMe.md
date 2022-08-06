@@ -1,4 +1,4 @@
-<img alt="Coding" height="150" width="1000" src="https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif">
+<img alt="Coding" height="150" width="900" src="https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif">
 <h1 align="center">Hi, I'm Tiyas! <br>A Cybersecurity Enthuasiastic.</h1> 
 
 
