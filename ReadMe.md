@@ -22,7 +22,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Random Hacker Meme
 <img src="https://i.imgflip.com/7db4dd.jpg" width="512px"/>
 
 ---
