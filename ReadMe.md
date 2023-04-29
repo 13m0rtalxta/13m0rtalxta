@@ -23,7 +23,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://imgflip.com/m/Hacker" width="512px"/>
+<img src="[https://imgflip.com/m/Hacker](https://i.imgflip.com/75blf5.jpg)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tiyas&icon=0&color=0)](https://visitcount.itsvg.in)
